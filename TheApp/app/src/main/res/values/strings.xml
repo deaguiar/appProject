@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheApp</string>
+
+    <string name="main_title">What Grinds Your Gears?!</string>
+
+    <string name="SIGN_UP">SIGN UP</string>
+    <string name="COMPOSE">COMPOSE</string>
+    <string name="ME">ME</string>
+    <string name="DISCOVER">DISCOVER</string>
+    <string name="SETTINGS">SETTINGS</string>
+</resources>
